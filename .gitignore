@@ -1,3 +1,4 @@
 *.tmp
 **\build
 **\.gradle
+/Tehtava1/.nb-gradle/
